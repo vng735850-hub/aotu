@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">AutoClick</string>
+<string name="service_desc">Cho phép AutoClick thực hiện thao tác chạm tự động trên màn hình.</string>
+</resources>
