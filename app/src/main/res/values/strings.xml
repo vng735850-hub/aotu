@@ -1,4 +1,4 @@
-<resources>
-<string name="app_name">AutoClick</string>
-<string name="service_desc">Cho phép AutoClick thực hiện thao tác chạm tự động trên màn hình.</string>
+resources>
+    <string name="app_name">Nvp Klick</string>
+    <string name="service_desc">Cho phép Nvp Klick thực hiện thao tác chạm, giữ, kéo tự động trên màn hình.</string>
 </resources>
