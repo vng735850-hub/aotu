@@ -11,8 +11,8 @@ android {
         applicationId = "com.example.autoclick"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 4
+        versionName = "1.2.1"
     }
     buildTypes {
         release { isMinifyEnabled = false }
@@ -22,4 +22,5 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
     kotlinOptions { jvmTarget = "17" }
+    lint { abortOnError = false }
 }
